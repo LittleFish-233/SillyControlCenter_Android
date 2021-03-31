@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SillyControlCenter_Android</string>
+    <string name="todo">TODO</string>
+    <string name="cpu_36_3">CPU使用率：36.3%</string>
+    <string name="_26">内存使用率：26%</string>
+    <string name="_90">电量：90%</string>
+    <string name="redmi_k30_5g">Redmi K30 5G</string>
+</resources>
